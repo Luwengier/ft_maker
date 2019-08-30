@@ -1,0 +1,21 @@
+input , label {
+  display: inline-block
+}
+
+.img-hei {
+  height: 250px;
+  background-size: cover;
+  background-position-x: center
+}
+
+.img1 {
+  background-image: url(https://assets-lighthouse.s3.amazonaws.com/uploads/image/file/5668/angry-developer.jpg);
+}
+
+.img2 {
+  background-image: url(https://assets-lighthouse.s3.amazonaws.com/uploads/image/file/5667/angry-designer.jpg);
+}
+
+.img3 {
+  background-image: url(https://assets-lighthouse.s3.amazonaws.com/uploads/image/file/5669/angry-founder.jpg);
+}
